@@ -15,6 +15,7 @@ isChild: true
 * [JavaScript MVC](http://javascriptmvc.com/)
 * [YUI](http://yuilibrary.com/) - Built by Yahoo!, YUI is a free, open source JavaScript and CSS library for building richly interactive web applications.
 * [ZeptoJS](http://zeptojs.com/) - Zepto is a minimalist JavaScript library for modern browsers with a largely jQuery-compatible API. If you use jQuery, you already know how to use Zepto.
+* [Dojo Toolkit](http://dojotoolkit.org/) - Dojo is a fress, open source JavaScript toolkit for building high performance web applications.
 
 
 ### Server-side
